@@ -1,0 +1,2 @@
+# PR
+Podatkovno rudarjenje FRI
